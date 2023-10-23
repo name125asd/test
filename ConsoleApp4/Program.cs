@@ -35,13 +35,13 @@ namespace ConsoleApp4
 
 
             //}
-            Console.WriteLine("please enter your name : ");
-            string name = Console.ReadLine();
-            Console.WriteLine("please enter your age : ");
-            string age = Console.ReadLine();
+            //Console.WriteLine("please enter your name : ");
+            //string name = Console.ReadLine();
+            //Console.WriteLine("please enter your age : ");
+            //string age = Console.ReadLine();
 
 
-            Console.WriteLine("hello  {0} you age is  {1} year", name, age);
+            //Console.WriteLine("hello  {0} you age is  {1} year", name, age);
 
 
 
